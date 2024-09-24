@@ -30,7 +30,7 @@
             element.style.top = top + "px";
             element.style.left = left + "px";
         });
-    });
-};
+    ;
+;
 
 footer();
